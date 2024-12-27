@@ -42,7 +42,13 @@ Data Management: The questions and answer choices are typically stored in a data
 Challenges and Enhancements
 While building a basic quiz app is relatively straightforward, developers can enhance it by adding more advanced features. These include randomizing questions, creating categories (e.g., science, history), incorporating a leaderboard system to track high scores, and implementing a timer to increase the challenge. Developers can also store quiz results locally in the browser or remotely in a database to offer personalized quiz experiences.
 
+
 Conclusion
 The Quiz App project is a perfect learning tool for those looking to build their skills in JavaScript and web development. It involves various essential concepts such as DOM manipulation, event handling, and state management, making it an ideal project for beginners. Additionally, the app can be expanded and customized to meet specific user needs or to integrate advanced features, providing endless opportunities for learning and growth in software development.
 
 **OUTPUT**:
+
+
+![Capture](https://github.com/user-attachments/assets/95d1a4dd-6aa8-4666-9b1d-ef1035f6f304)
+![screenshot1](https://github.com/user-attachments/assets/d8812b1f-a386-4a64-897d-ebc143b3138c)
+![screenshts2](https://github.com/user-attachments/assets/c7f08905-78d9-47d1-8e4c-633fcdafcb45)
